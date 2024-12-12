@@ -16,6 +16,8 @@ QuickNotes é um aplicativo web para anotações rápidas, desenvolvido com o ob
 - **Estilização**: CSS simples para um design limpo e funcional
 - **Comunicação**: Axios para chamadas às APIs
 
+  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongo,css,git,javascript)](https://skillicons.dev)
+
 ## Estrutura do Projeto
 ```
 /note-app
